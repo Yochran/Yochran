@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hey, I'm Yochran!
 
-<!--
-**Yochran/Yochran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Here's some information about me.
 
-Here are some ideas to get you started:
+  - I can code in 6 different languages. Java, JS, Python, HTML, C++ and VBScript.
+  - I'm able to do plugin & bot jobs for people who need help.
+  - I currently work for OutflowKits.net (a minecraft server) in where I am a Discord Developer and a Senior Administrator.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Links:
+  - https://twitter.com/yochran
+  - https://www.spigotmc.org/members/yochran.1076534/
+  - https://www.mc-market.org/members/195613/
+
+# Discord:
+  - Yochran#3964
+  
+### I'm pretty active on here, so my repos will be updated frequently!
