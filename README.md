@@ -2,7 +2,7 @@
 
 ### Here's some information about me.
 
-  - I can code in 6 different languages. Java, JS, Python, HTML, C++ and VBScript.
+  - I can code in 7 different languages. Java, JS, Python, HTML, C++, C#, and VBScript.
   - I'm able to do plugin & bot jobs for people who need help.
   - I currently work for OutflowKits.net (a minecraft server) in where I am a Discord Developer and a Senior Administrator.
 
