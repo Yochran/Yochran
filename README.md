@@ -4,7 +4,7 @@
 
   - I can code in 7 different languages. Java, JS, Python, HTML, C++, C#, and VBScript.
   - I'm able to do plugin & bot jobs for people who need help.
-  - I currently work for OutflowKits.net (a minecraft server) in where I am a Discord Developer and a Senior Administrator.
+  - I currently work for OutflowKits.net (a minecraft server) in where I am a Discord Developer and a Platform Administrator, and I also work for another minecraft server called VectroMC, in where I am a Lead Developer, Minecraft Developer and Discord Developer.
 
 ### Links:
   - https://twitter.com/yochran
