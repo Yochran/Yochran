@@ -1,4 +1,4 @@
-# Hey, I'm Yochran. I'm a developer, learning in 7 different programming languages.
+# Hey, I'm Yochran. I'm a developer, learning in 8 different programming languages.
 
 # **Links:**
 ### Minecraft Server:
@@ -8,13 +8,19 @@ https://twitter.com/Yochran
 ### SpigotMC:
 https://www.spigotmc.org/members/yochran.1076534/
 
-# Languages:
+# Languages & Tools:
 
 <a href>
 	<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="logo" width="50" height="50">
 </a>
 <a href>
+	<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" alt="logo" width="50" height="50">
+</a>
+<a href>
 	<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="logo" width="50" height="50">
+</a>
+<a href>
+	<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="logo" width="50" height="50">
 </a>
 <a href>
 	<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="logo" width="50" height="50">
