@@ -1,6 +1,6 @@
-![GitHub metrics](https://metrics.lecoq.io/Yochran)
-<br />
-# Links:
+# Hey, I'm Yochran. I'm a primarily Java Developer, but I can also code in 6 other langauges.
+
+# **Links:**
 ### Minecraft Server:
 https://vectromc.net
 ### Twitter:
@@ -34,6 +34,10 @@ https://www.spigotmc.org/members/yochran.1076534/
 <br />
 
 # Stats:
+
+![GitHub metrics](https://metrics.lecoq.io/Yochran)
+
+<br />
 
 <a href="https://github.com/Yochran">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yochran&theme=light" />
