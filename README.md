@@ -1,12 +1,18 @@
 # Hey, I'm Yochran. I'm a developer, learning in 8 different programming languages.
 
-# **Links:**
-### Minecraft Server:
+### Links:
 https://vectromc.net
-### Twitter:
+<br />
 https://twitter.com/Yochran
-### SpigotMC:
+<br />
 https://www.spigotmc.org/members/yochran.1076534/
+<br />
+
+# About Me:
+
+I'm Yochran. I'm a developer learning in 8 different programming languages. I generally work freelance, although I do work for a minecraft server, VectroMC, in which I am the Lead Developer, and Discord Developer.
+
+**Discord:** Yochran#3964
 
 # Languages & Tools:
 
