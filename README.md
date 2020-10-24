@@ -1,4 +1,4 @@
-# Hey, I'm Yochran. I'm a developer, learning in 8 different programming languages.
+# Hey, I'm Yochran!
 
 ### Links:
 https://vectromc.net
