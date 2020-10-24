@@ -15,3 +15,7 @@
   - Yochran#3964
   
 ### I'm pretty active on here, so my repos will be updated frequently!
+
+![GitHub metrics](https://metrics.lecoq.io/Yochran)
+
+<br />
