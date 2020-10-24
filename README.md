@@ -29,7 +29,7 @@ https://www.spigotmc.org/members/yochran.1076534/
 	<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="logo" width="50" height="50">
 </a>
 <a href>
-	<img src="https://logodix.com/logo/1718712.jpg" alt="logo" width="65" height="50">
+	<img src="https://karb0f0s.gallerycdn.vsassets.io/extensions/karb0f0s/vbscript/0.5.5/1524063222678/Microsoft.VisualStudio.Services.Icons.Default" alt="logo" width="50" height="50">
 </a>
 <br />
 
