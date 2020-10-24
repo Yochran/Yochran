@@ -64,7 +64,7 @@ https://www.spigotmc.org/members/yochran.1076534/
 <br />
 
 <a href="https://github.com/Yochran">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yochran&theme=light&exclude_repo=vCores,InvadedSoup,vStaffUtils" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yochran&theme=light&exclude_repo=vCores,InvadedSoup,vStaffUtils,yoSmpCore" />
 </a>
 
 <br />
