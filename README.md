@@ -20,9 +20,18 @@ https://www.spigotmc.org/members/yochran.1076534/
 
 # Stats:
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Yochran&label=Views&color=blue&style=plastic" alt="Yochran" /> </p>
+
+<br />
+
 <a href="https://github.com/Yochran">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yochran&theme=light" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yochran&theme=light" />
 </a>
+
+<br />
+
 <a href="https://github.com/Yochran">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yochran&show_icons=true&theme=light&line_height=27" alt="Yochran's github stats"/>
+ <img align="left" src="https://github-readme-stats.vercel.app/api?username=Yochran&show_icons=true&theme=light&line_height=27" alt="Yochran's github stats"/>
 </a>
+
+<br />
