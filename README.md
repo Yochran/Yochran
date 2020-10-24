@@ -17,5 +17,5 @@ https://www.spigotmc.org/members/yochran.1076534/
 [![SpigotMC: Yochran](https://twitter.com/Yochran)
 
 <a href="https://github.com/Yochran">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampawan&theme=light&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yochran&theme=light&hide_langs_below=1" />
 </a>
