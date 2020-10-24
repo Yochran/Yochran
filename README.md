@@ -1,4 +1,4 @@
-# Hey, I'm Yochran. I'm a primarily Java Developer, but I can also code in 6 other langauges.
+# Hey, I'm Yochran. I'm a developer, learning in 7 different programming languages.
 
 # **Links:**
 ### Minecraft Server:
