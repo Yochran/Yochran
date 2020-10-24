@@ -13,12 +13,9 @@ https://www.spigotmc.org/members/yochran.1076534/
 <code><img width="50" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"><code>
 <code><img width="50" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"><code>
 
+<br />
+
 ### Links:
 https://twitter.com/Yochran
 <br />
 https://www.spigotmc.org/members/yochran.1076534/
-
-
-<a href="https://github.com/Yochran">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yochran&theme=light&hide_langs_below=1" />
-</a>
