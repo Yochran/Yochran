@@ -55,6 +55,10 @@ https://www.spigotmc.org/members/yochran.1076534/
 <a href>
 	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/1024px-PyCharm_Logo.svg.png" alt="logo" width="50" height="50">
 </a>
+
+<br />
+<br />
+
 <a href="https://github.com/Yochran">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yochran&theme=light&exclude_repo=vCores,InvadedSoup,vStaffUtils&layout=compact" />
 </a>
