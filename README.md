@@ -70,7 +70,7 @@ https://www.spigotmc.org/members/yochran.1076534/
 <br />
 
 <a href="https://github.com/Yochran">
- <img align="left" src="https://github-readme-stats.vercel.app/api?username=Yochran&show_icons=true&theme=light&line_height=27" alt="Yochran's github stats"/>
+ <img align="right" src="https://github-readme-stats.vercel.app/api?username=Yochran&show_icons=true&theme=light&line_height=27" alt="Yochran's github stats"/>
 </a>
 
 <br />
