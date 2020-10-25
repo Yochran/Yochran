@@ -10,7 +10,7 @@ https://www.spigotmc.org/members/yochran.1076534/
 
 # About Me:
 
-I'm Yochran. I'm a developer learning in 8 different programming languages. I generally work freelance, although I do work for a minecraft server, VectroMC, in which I am the Lead Developer, and Discord Developer.
+I'm Yochran. I'm a developer learning in 9 different programming languages. I generally work freelance, although I do work for a minecraft server, VectroMC, in which I am the Lead Developer, and Discord Developer.
 
 **Discord:** Yochran#3964
 
@@ -36,6 +36,9 @@ I'm Yochran. I'm a developer learning in 8 different programming languages. I ge
 </a>
 <a href>
 	<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="logo" width="30" height="30">
+</a>
+<a href>
+	<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="logo" width="30" height="30">
 </a>
 <a href>
 	<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="logo" width="30" height="30">
