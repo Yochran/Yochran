@@ -75,12 +75,6 @@ I'm Yochran. I'm a developer learning in 8 different programming languages. I ge
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
 
 # Stats:
 
