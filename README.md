@@ -68,9 +68,6 @@ I'm Yochran. I'm a developer learning in 9 different programming languages. I ge
 <br />
 <br />
 
-<a href="https://github.com/Yochran">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yochran&theme=light&layout=compact&exclude_repo=vCores,InvadedSoup,vStaffUtils" />
-</a>
 <br />
 <br />
 <br />
