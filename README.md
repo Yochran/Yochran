@@ -47,12 +47,6 @@ I'm Yochran. I'm a developer learning in 9 different programming languages. I ge
 	<img src="https://karb0f0s.gallerycdn.vsassets.io/extensions/karb0f0s/vbscript/0.5.5/1524063222678/Microsoft.VisualStudio.Services.Icons.Default" alt="logo" width="20" height="30">
 </a>
 <a href>
-	<img src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" alt="logo" width="60" height="30">
-</a>
-<a href>
-	<img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" alt="logo" width="30" height="30">
-</a>
-<a href>
 	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/1024px-IntelliJ_IDEA_Logo.svg.png" alt="logo" width="30" height="30">
 </a>
 <a href>
@@ -63,6 +57,12 @@ I'm Yochran. I'm a developer learning in 9 different programming languages. I ge
 </a>
 <a href>
 	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/1024px-PyCharm_Logo.svg.png" alt="logo" width="30" height="30">
+</a>
+<a href>
+	<img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" alt="logo" width="30" height="30">
+</a>
+<a href>
+	<img src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" alt="logo" width="60" height="30">
 </a>
 
 <br />
