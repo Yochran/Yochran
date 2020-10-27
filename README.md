@@ -72,7 +72,7 @@ I'm Yochran. I'm a developer learning in 9 different programming languages. I ge
 <br />
 
 <a href="https://github.com/Yochran">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yochran&theme=light&layout=compact&exclude_repo=vCores,InvadedSoup,yoStaffUtils&langs_count=8" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yochran&theme=light&layout=compact&exclude_repo=vCores,InvadedSoup,yoStaffUtils&langs_count=7" />
 </a>
 <br />
 <br />
