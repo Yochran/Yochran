@@ -26,6 +26,9 @@ I'm Yochran. I'm a developer learning in 9 different programming languages. I ge
 	<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="logo" width="30" height="30">
 </a>
 <a href>
+	<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="logo" width="30" height="30">
+</a>
+<a href>
 	<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="logo" width="30" height="30">
 </a>
 <a href>
