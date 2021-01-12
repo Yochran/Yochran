@@ -1,8 +1,6 @@
 # Hey, I'm Yochran!
 
 ### Links:
-https://vectromc.net
-<br />
 https://twitter.com/Yochran
 <br />
 https://www.spigotmc.org/members/yochran.1076534/
@@ -10,9 +8,7 @@ https://www.spigotmc.org/members/yochran.1076534/
 
 # About Me:
 
-I'm Yochran. I'm a developer learning in 9 different programming languages. I generally work freelance, although I do work for a minecraft server, VectroMC, in which I am the Lead Developer, and Discord Developer.
-
-I also work for TheEvents, a larger minecraft server in which I am a developer.
+I'm Yochran. A freelance Web, Software and Game Developer. I know how to program in 9 languages and specialize in custom websites, discord bots, malware & minecraft plugins.
 
 **Discord:** Yochran#3964
 
