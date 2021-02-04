@@ -70,7 +70,7 @@ I'm Yochran. A freelance Web, Software and Game Developer. I know how to program
 <br />
 
 <a href="https://github.com/Yochran">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yochran&theme=light&layout=compact&exclude_repo=vCores,InvadedSoup,yoTroll&langs_count=7" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yochran&theme=dark&layout=compact&exclude_repo=vCores,InvadedSoup,yoTroll&langs_count=7" />
 </a>
 <br />
 <br />
@@ -88,7 +88,7 @@ I'm Yochran. A freelance Web, Software and Game Developer. I know how to program
 <br />
 
 <a href="https://github.com/Yochran">
- <img align="left" src="https://github-readme-stats.vercel.app/api?username=Yochran&show_icons=true&theme=light&line_height=27" alt="Yochran's github stats"/>
+ <img align="left" src="https://github-readme-stats.vercel.app/api?username=Yochran&show_icons=true&theme=dark&line_height=27" alt="Yochran's github stats"/>
 </a>
 
 <br />
