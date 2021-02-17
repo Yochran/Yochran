@@ -1,15 +1,12 @@
 # Hey, I'm Yochran!
 
-### Links:
-https://twitter.com/Yochran
-<br />
+### Spigot Page:
 https://www.spigotmc.org/members/yochran.1076534/
 <br />
 
 # About Me:
 
-I'm Yochran. A freelance Web, Software and Game Developer. I know how to program in 9 languages and specialize in custom websites, discord bots, malware & minecraft plugins.
-
+I'm Yochran. I'm an independent developer that specializes in Websites, Discord Bots, Minecraft Plugins, Malware, Packets & executables.
 **Discord:** Yochran#3964
 
 # Languages & Tools:
@@ -70,7 +67,7 @@ I'm Yochran. A freelance Web, Software and Game Developer. I know how to program
 <br />
 
 <a href="https://github.com/Yochran">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yochran&theme=dark&layout=compact&exclude_repo=vCores,InvadedSoup,yoTroll&langs_count=7" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yochran&theme=dark&exclude_repo=vCores,InvadedSoup,yoTroll&langs_count=7" />
 </a>
 <br />
 <br />
