@@ -55,7 +55,7 @@ I'm Yochran. I'm an independent developer that specializes in Websites, Discord 
 <br />
 
 <a href="https://github.com/Yochran">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yochran&theme=dark&layout=compact&exclude_repo=vCores,MonsoonSMP,InvadedSoup,yoSSTool,Test-Website&langs_count=10" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yochran&theme=dark&layout=compact&exclude_repo=vCores,MonsoonSMP,InvadedSoup,yoSSTool&langs_count=10" />
 </a>
 <br />
 <br />
