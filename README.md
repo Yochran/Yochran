@@ -1,6 +1,6 @@
-# Yochran
+# I'm Yochran
 
-### About Me:
+# About Me:
 I'm a independent programmer from the United States, and I specialize in Software Engineering, Frontend & Backend Web Development, Minecraft Development (Plugins & Mods), Discord Development (Bots & BetterDiscord plugins/themes), & malware.
 
 ### Languages:
@@ -43,12 +43,12 @@ The languages I know are:
 </br>
 </br>
 
-### Links & Info:
+# Links & Info:
 **SpigotMC:** https://www.spigotmc.org/members/yochran.1076534/
 **Twitter (falsely suspended):** https://twitter.com/Yochran
 **Discord:** Yochran#3964
 
-*__Github IO Pages:__*
+### Github IO Pages:
 https://yochran.github.io/Test-Website
 https://yochran.github.io/New-Website
 
