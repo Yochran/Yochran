@@ -49,9 +49,7 @@
 **Twitter (falsely suspended):** https://twitter.com/Yochran
 </br>
 **Discord:** Yochran#3964
-
 </br>
-
 ### Github IO Pages:
 </br>
 https://yochran.github.io/Test-Website
