@@ -21,11 +21,6 @@
   - VBScript
   - Python
 
-**__My favorite languages__**:
-  1. JavaScript
-  2. C/C++
-  3. Java
-
 **__Here's ny most used languages:__**
 
 <a href="https://github.com/Yochran">
@@ -42,6 +37,11 @@
 </br>
 </br>
 </br>
+
+**__My favorite languages__**:
+  1. JavaScript
+  2. C/C++
+  3. Java
 
 # Links & Info:
 **SpigotMC:** https://www.spigotmc.org/members/yochran.1076534/
