@@ -8,7 +8,7 @@
 ### Languages:
 <p>I technically know 11 languages, while most of those langauges exist in repositories on my page, only a few of them do I use on the daily.</p>
 
-The languages I know are:
+**__The languages I know are__**:
   - Java
   - JavaScript (Vanilla/Node/Express)
   - TypeScript (Vanilla/Node)
