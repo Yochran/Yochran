@@ -1,10 +1,12 @@
 # I'm Yochran
 
 # About Me:
-I'm a independent programmer from the United States, and I specialize in Software Engineering, Frontend & Backend Web Development, Minecraft Development (Plugins & Mods), Discord Development (Bots & BetterDiscord plugins/themes), & malware.
+<p>
+  I'm a independent programmer from the United States, and I specialize in Software Engineering, Frontend & Backend Web Development, Minecraft Development (Plugins & Mods), Discord Development (Bots & BetterDiscord plugins/themes), & malware.
+</p>
 
 ### Languages:
-I technically know 11 languages, while most of those langauges exist in repositories on my page, only a few of them do I use on the daily.
+<p>I technically know 11 languages, while most of those langauges exist in repositories on my page, only a few of them do I use on the daily.</p>
 
 The languages I know are:
   - Java
