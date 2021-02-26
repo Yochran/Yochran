@@ -51,7 +51,6 @@
 **Discord:** Yochran#3964
 </br>
 ### Github IO Pages:
-</br>
 https://yochran.github.io/Test-Website
 </br>
 https://yochran.github.io/New-Website
