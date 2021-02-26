@@ -45,11 +45,17 @@
 
 # Links & Info:
 **SpigotMC:** https://www.spigotmc.org/members/yochran.1076534/
+</br>
 **Twitter (falsely suspended):** https://twitter.com/Yochran
+</br>
 **Discord:** Yochran#3964
 
+</br>
+
 ### Github IO Pages:
+</br>
 https://yochran.github.io/Test-Website
+</br>
 https://yochran.github.io/New-Website
 
 </br>
