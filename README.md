@@ -41,9 +41,9 @@
 </br>
 
 **__My favorite languages__**:
-  1. JavaScript
+  1. Java
   2. C/C++
-  3. Java
+  3. JavaScript/TypeScript
 
 # Links & Info:
 **SpigotMC:** https://www.spigotmc.org/members/yochran.1076534/
