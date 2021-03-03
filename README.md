@@ -48,7 +48,7 @@
 # Links & Info:
 **SpigotMC:** https://www.spigotmc.org/members/yochran.1076534/
 </br>
-**Twitter (falsely suspended):** https://twitter.com/Yochran
+**Twitter:** https://twitter.com/Yochran1
 </br>
 **Discord:** Yochran#3964
 </br>
