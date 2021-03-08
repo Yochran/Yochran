@@ -48,8 +48,6 @@
   - vCores (Minecraft Plugins)
   - TheDomain (Minecraft Plugins)
 
-</br>
-
 # Links & Info:
 **SpigotMC:** https://www.spigotmc.org/members/yochran.1076534/
 </br>
