@@ -5,6 +5,13 @@
   I'm a independent programmer from the United States, and I specialize in Software Engineering, Frontend & Backend Web Development, Minecraft Development (Plugins & Mods), Discord Development (Bots & BetterDiscord plugins/themes), & malware.
 </p>
 
+ Even though I am independent, I do work for one company and one group. The company is `Virginia Aerospace`, which is an LLC that creates Aerospace Components.
+ The group is `Champons Domain` or known as `The Domain` by those in it. The Domain is a discord & minecraft server, and it is the orginization that I created these projects for / use these projects in:
+  - N Word Counter (Discord Bot)
+  - Packet Communication (Messaging System)
+  - vCores (Minecraft Plugins)
+  - TheDomain (Minecraft Plugins)
+
 ### Languages:
 <p>I technically know 11 languages, while most of those langauges exist in repositories on my page, only a few of them do I use on the daily.</p>
 
