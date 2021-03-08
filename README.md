@@ -1,4 +1,4 @@
-# I'm Yochran
+# I'm Yochran 💯
 
 # Development:
 <p>I technically know 11 languages, while most of those langauges exist in repositories on my page, only a few of them do I use on the daily.</p>
@@ -23,13 +23,13 @@
 </a>
 
 </br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
+  </br>
+    </br>
+      </br>
+        </br>
+      </br>
+    </br>
+  </br>
 </br>
 
 ### My favorite languages:
@@ -64,3 +64,10 @@ https://yochran.github.io/New-Website
 https://yochran.github.io/VA-Aerospace
 
 </br>
+
+```java
+public boolean isFollowing(GithubUser viewer) {
+  Profile profile = new GitHubProfile("https://github.com/Yochran");
+  return viewer.isFollowing(profile);
+}
+```
