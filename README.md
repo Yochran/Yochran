@@ -3,7 +3,7 @@
 # Development:
 <p>I technically know 11 languages, while most of those langauges exist in repositories on my page, only a few of them do I use on the daily.</p>
 
-**__The languages I know are__**:
+### The languages I know are:
   - Java
   - JavaScript (Vanilla/Node/Express)
   - TypeScript (Vanilla/Node)
@@ -16,7 +16,7 @@
   - VBScript
   - Python
 
-**__Here's my most used languages:__**
+### Here's my most used languages:
 
 <a href="https://github.com/Yochran">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yochran&theme=dark&layout=compact&exclude_repo=vCores,MonsoonSMP,InvadedSoup,yoSSTool&langs_count=6"/>
@@ -30,8 +30,9 @@
 </br>
 </br>
 </br>
+</br>
 
-**__My favorite languages__**:
+### My favorite languages:
   1. Java
   2. C/C++
   3. JavaScript/TypeScript
