@@ -1,7 +1,7 @@
 # I'm Yochran 💯
 
 # Development:
-<p>I technically know 11 languages, while most of those langauges exist in repositories on my page, only a few of them do I use on the daily.</p>
+I know `11` languages. while most of those langauges exist in repositories on my page, only a few of them do I use on the daily.
 
 ### The languages I know are:
   - Java
