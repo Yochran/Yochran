@@ -19,7 +19,7 @@
 ### Here's my most used languages:
 
 <a href="https://github.com/Yochran">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yochran&theme=dark&layout=compact&exclude_repo=vCores,MonsoonSMP,InvadedSoup,yoSSTool&langs_count=6"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yochran&theme=light&layout=compact&exclude_repo=vCores,MonsoonSMP,InvadedSoup,yoSSTool&langs_count=6"/>
 </a>
 
 </br>
