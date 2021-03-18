@@ -1,7 +1,7 @@
-# I'm Yochran 💯
+# I'm Danny (Yochran)
 
 ```java
-public boolean isFollowing(GithubUser viewer) {
+public boolean isFollowing(GitHubUser viewer) {
   Profile profile = new GitHubProfile("https://github.com/Yochran");
   return viewer.isFollowing(profile);
 }
