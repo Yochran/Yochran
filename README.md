@@ -34,8 +34,6 @@ I know `11` languages. (Java, JavaScript, Kotlin C, C++, HTML, CSS, C#, Python, 
 # Links & Info:
 **SpigotMC:** https://www.spigotmc.org/members/yochran.1076534/
 </br>
-**Twitter:** https://twitter.com/Yochran1
-</br>
 **Discord:** Yochran#3964
 </br>
 ### Github IO Pages:
