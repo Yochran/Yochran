@@ -5,18 +5,21 @@ I'm an independent Software & Web developer from Arlington Virginia.
 I know `11` languages. (Java, JavaScript, Kotlin C, C++, HTML, CSS, C#, Python, VBScript)
 
 <a href="https://github.com/Yochran">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yochran&theme=light&layout=compact&exclude_repo=vCores,MonsoonSMP,InvadedSoup,yoSSTool&langs_count=6"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yochran&theme=dark&layout=compact&exclude_repo=vCores,MonsoonSMP,InvadedSoup,yoSSTool&langs_count=6"/>
 </a>
 
 </br>
   </br>
     </br>
       </br>
+      </br>
     </br>
   </br>
 </br>
 
 # Links & Info:
+**Website:** https://yochran.tohi.dev/
+</br>
 **SpigotMC:** https://www.spigotmc.org/members/yochran.1076534/
 </br>
 **Discord:** Yochran#3964
