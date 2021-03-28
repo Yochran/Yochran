@@ -37,6 +37,8 @@ I know `11` languages. (Java, JavaScript, Kotlin C, C++, HTML, CSS, C#, Python, 
 **Discord:** Yochran#3964
 </br>
 ### Github IO Pages:
+https://yochran.github.io/Yochran-Website
+</br>
 https://yochran.github.io/Test-Website
 </br>
 https://yochran.github.io/New-Website
