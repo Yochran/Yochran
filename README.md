@@ -1,11 +1,5 @@
 # I'm Danny (Yochran)
-
-```java
-public boolean isFollowing(GitHubUser viewer) {
-  Profile profile = new GitHubProfile("https://github.com/Yochran");
-  return viewer.isFollowing(profile);
-}
-```
+I'm an independent Software & Web developer from Arlington Virginia.
 
 # Development:
 I know `11` languages. (Java, JavaScript, Kotlin C, C++, HTML, CSS, C#, Python, VBScript)
@@ -24,13 +18,6 @@ I know `11` languages. (Java, JavaScript, Kotlin C, C++, HTML, CSS, C#, Python, 
   </br>
 </br>
 
-# About Me:
-<p>
-  I'm a independent programmer from the United States, and I specialize in Software Engineering, Frontend & Backend Web Development, Minecraft Development (Plugins & Mods), Discord Development (Bots & BetterDiscord plugins/themes), & malware.
-  
-  I'm from Arlington Virginia, where I go to high school. Oddly enough, I've never taken any of the programming classes available for High and Middle School because it felt unneeded.
-</p>
-
 # Links & Info:
 **SpigotMC:** https://www.spigotmc.org/members/yochran.1076534/
 </br>
@@ -46,3 +33,10 @@ https://yochran.github.io/New-Website
 https://yochran.github.io/VA-Aerospace
 
 </br>
+
+```java
+public boolean isFollowing(GitHubUser viewer) {
+  Profile profile = new GitHubProfile("https://github.com/Yochran");
+  return viewer.isFollowing(profile);
+}
+```
