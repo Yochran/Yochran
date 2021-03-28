@@ -38,9 +38,11 @@ https://yochran.github.io/VA-Aerospace
 
 </br>
 
-```java
-public boolean isFollowing(GitHubUser viewer) {
-  Profile profile = new GitHubProfile("https://github.com/Yochran");
-  return viewer.isFollowing(profile);
+```js
+function followMe(viewer) {
+  if (!viewer.isFollowing(Github.CurrentPage())) {
+    viewer.addEntry(FOLLOW, new GithubUser("https://github.com/Yochran"));
+    console.log("Thanks for following me!");
+  }
 }
 ```
