@@ -1,5 +1,8 @@
 # I'm Danny (Yochran)
 I'm an independent Software & Web developer from Arlington Virginia.
+</br>
+</br>
+**I currently work for Hallow Industries & Virginia Aerospace.**
 
 # Development:
 I know `11` languages. (Java, JavaScript, Kotlin C, C++, HTML, CSS, C#, Python, VBScript)
