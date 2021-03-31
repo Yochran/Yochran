@@ -1,4 +1,14 @@
 # I'm Danny (Yochran)
+
+```js
+function followMe(viewer) {
+  if (!viewer.isFollowing(Github.CurrentPage())) {
+    viewer.addEntry(FOLLOW, new GithubUser("https://github.com/Yochran"));
+    console.log("Thanks for following me!");
+  }
+}
+```
+
 I'm an independent Software & Web developer from Arlington Virginia.
 </br>
 </br>
@@ -25,6 +35,8 @@ I know `11` languages. (Java, JavaScript, Kotlin C, C++, HTML, CSS, C#, Python, 
 </br>
 **SpigotMC:** https://www.spigotmc.org/members/yochran.1076534/
 </br>
+**Twitter:** https://twitter.com/y0chran/
+</br>
 **Discord:** Yochran#3964
 </br>
 ### Github IO Pages:
@@ -32,17 +44,6 @@ https://yochran.github.io/Yochran-Website
 </br>
 https://yochran.github.io/Test-Website
 </br>
-https://yochran.github.io/New-Website
-</br>
 https://yochran.github.io/VA-Aerospace
 
 </br>
-
-```js
-function followMe(viewer) {
-  if (!viewer.isFollowing(Github.CurrentPage())) {
-    viewer.addEntry(FOLLOW, new GithubUser("https://github.com/Yochran"));
-    console.log("Thanks for following me!");
-  }
-}
-```
