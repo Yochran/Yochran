@@ -13,7 +13,7 @@ I know how to program in 11 languages, being Java, JS, TS, C, C++, HTML, CSS, C#
 
 <br></br>
 <br></br>
-</br>
+<br></br>
 
 ### What I do:
 I currently work for a company, being Hallow Industries. Hallow's services and development are currently suspended due to absence of the owner, [https://github.com/ItsTohi](Tohi).
