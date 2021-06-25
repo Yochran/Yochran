@@ -16,9 +16,9 @@ I know how to program in 11 languages, being Java, JS, TS, C, C++, HTML, CSS, C#
 <br></br>
 
 ### What I do:
-I currently work for a company, being Hallow Industries. Hallow's services and development are currently suspended due to absence of the owner, [https://github.com/ItsTohi](Tohi).
+I currently work for a company, being Hallow Industries. Hallow's services and development are currently suspended due to absence of the owner, [ItsTohi](https://github.com/ItsTohi).
 </br>
-As well as this, I work for a minecraft server called Abyssal. You can join [https://discord.gg/a3ATJFNNhQ](here)
+As well as this, I work for a minecraft server called Abyssal. You can join the discord [here.](https://discord.gg/a3ATJFNNhQ)
 </br>
 ### Random Information:
   - I'm 15 years old
