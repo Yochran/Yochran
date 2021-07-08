@@ -7,7 +7,7 @@ I know how to program in 11 languages, being Java, JS, TS, C, C++, HTML, CSS, C#
 </br>
 <br>
   <a href="https://github.com/Yochran">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yochran&theme=dark&layout=compact&exclude_repo=vCores,MonsoonSMP,InvadedSoup,yoSSTool&langs_count=6"/>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yochran&theme=dark&layout=compact&exclude_repo=yoCore,Hallow-Lib,vCores,MonsoonSMP,InvadedSoup,yoSSTool&langs_count=6"/>
   </a>
 </br>
 
